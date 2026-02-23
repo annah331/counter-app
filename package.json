@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s03i8nc",
-  "description": "https://scrimba.com/learn-javascript-c0v/~0t",
+  "name": "Counter-app",
+  "description": "A simple counter application built with Vite.",
   "scripts": {
     "start": "vite",
     "dev": "vite",
