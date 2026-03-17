@@ -44,4 +44,4 @@ This project demonstrates core JavaScript concepts and real-time DOM updates.
 
 ## 👩🏽‍💻 Author
 Annah Molekoa  
-Junior Full-Stack Developer
+Frontend Developer
